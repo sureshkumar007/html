@@ -1,0 +1,21 @@
+div
+{
+width:500px;
+margin:auto;
+}
+
+
+.line
+{
+    border-style:solid;
+text-align:center;
+border-color:#F0F3F4;
+
+padding:10px;
+}
+
+
+body
+{
+background-color:grey;
+}
